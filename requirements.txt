@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+mlflow
+sqlalchemy
+httpx
+pytest
